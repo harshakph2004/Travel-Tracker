@@ -17,5 +17,5 @@ A web app to track and visualize visited countries on a world map.
 ##  Live Demo
 https://travel-tracker-88cv.onrender.com/
 
-Try: India, Japan, Brazil, Canada, Germany, Australia
+Try: Saudi Arabia, Brazil, Canada, Germany, Australia
 
